@@ -11,13 +11,12 @@ public class BooleanType {
 
         boolean b3;
         if (2 > 5) {
-            b3=true;
-        }
-        else{
-            b3=false;
+            b3 = true;
+        } else {
+            b3 = false;
         }
         System.out.println("b3= " + b3);
-        }
-
     }
+
+}
 
